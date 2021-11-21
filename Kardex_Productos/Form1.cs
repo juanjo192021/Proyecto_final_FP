@@ -630,6 +630,7 @@ namespace Kardex_Productos
                 eliminarFicheroSalida(nombreFicheroSalida, codigoSalidaEliminar);
             }
             mostrarFicheroSalida(nombreFicheroSalida, dgvProductosSalida);
+
             limpiarControles();
         }
     }
